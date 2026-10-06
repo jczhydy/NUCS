@@ -1,6 +1,4 @@
-# Official Implementation of the ACM Multimedia 2026 Paper
-
-**Non-Uniform Class-Wise Coreset Selection for Vision Model Fine-tuning**
+# Official Implementation of the ACM Multimedia 2026 Paper **Non-Uniform Class-Wise Coreset Selection for Vision Model Fine-tuning**
 
 This repository contains the official implementation. The method is available in `train_nat.py` as `--coreset_mode labelwindow_win`.
 
